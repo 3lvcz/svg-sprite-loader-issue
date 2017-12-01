@@ -1,0 +1,17 @@
+{
+  "name": "svg-sprite-loader-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "install": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "svg-sprite-loader": "^3.4.1",
+    "webpack": "^3.9.1"
+  }
+}
